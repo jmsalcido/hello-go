@@ -1,3 +1,7 @@
+package main
+
+import "fmt"
+
 func main() {
-	fmt.print()
+	fmt.Print("Hello world!")
 }
